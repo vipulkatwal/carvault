@@ -1,6 +1,7 @@
 # 🚗 Car Vault 🌟
 
-![Portfolio](./public/preview.png)
+![preview](/preview.png)
+
 ## 🔧 Project Overview
 
 Car Vault is a full-stack web application for managing and showcasing vehicles, built with modern web technologies.
